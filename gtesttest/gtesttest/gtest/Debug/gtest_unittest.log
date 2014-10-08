@@ -1,0 +1,16 @@
+﻿빌드 시작: 2014-10-07 오후 9:02:05
+     1>2 노드의 "C:\Users\acoross\Downloads\gtest-1.7.0\msvc\gtest_unittest.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (gtest.vcxproj, gtest_main.vcxproj, gtest_prod_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /I..\include /Zi /nologo /W3 /WX- /O1 /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt /FS ..\test\gtest_unittest.cc
+         gtest_unittest.cc
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest_unittest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest_unittest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest_unittest.lib" /MACHINE:X64 x64\Debug\gtest_unittest.obj
+         "C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtestd.lib"
+         "C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest_maind.lib"
+         gtest_unittest.vcxproj -> C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest_unittest.exe
+     1>"C:\Users\acoross\Downloads\gtest-1.7.0\msvc\gtest_unittest.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:14.18

@@ -1,0 +1,16 @@
+﻿빌드 시작: 2014-10-07 오후 9:02:00
+     1>2 노드의 "C:\Users\acoross\Downloads\gtest-1.7.0\msvc\gtest.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (gtest_main.vcxproj, gtest_prod_test.vcxproj, gtest_unittest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /I..\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt /FS "..\src\gtest-all.cc"
+         gtest-all.cc
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1354,5): warning MSB8012: TargetPath(C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest.lib) does not match the Library's OutputFile property value (C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtestd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1356,5): warning MSB8012: TargetName(gtest) does not match the Library's OutputFile property value (gtestd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtestd.lib" /NOLOGO /MACHINE:X64 "x64\Debug\gtest-all.obj"
+         gtest.vcxproj -> C:\Users\acoross\Downloads\gtest-1.7.0\msvc\x64\Debug\gtest.lib
+     1>"C:\Users\acoross\Downloads\gtest-1.7.0\msvc\gtest.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.97
