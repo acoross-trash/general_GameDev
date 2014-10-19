@@ -68,9 +68,9 @@ int main()
 		for (int j = 0; j < size; j++)
 		{
 			b_bit[i + j] ^= a_bit[i] & a_bit[size + j];
-			char tmp
-			sprintf("")
-			strcat(b_str[i],
+			char tmp[100];
+			sprintf_s(tmp, " (+) a[%d]^a[%d]", i, size + j);
+			strcat_s(b_str[i + j], 1000, tmp);
 		}
 	}
 
@@ -118,6 +118,13 @@ int main()
 
 	printf("\n\n");
 
+	for (int i = 0; i < size * 2; ++i)
+	{
+		printf("%d: %s\n", i, b_str[i]);
+	}
+
+	printf("\n\n");
+
 	int tmp_all = 0;
 	int tmp_a1 = 0;
 	int tmp_a2 = 0;
@@ -142,7 +149,7 @@ int main()
 	cout << tmp_a2;
 
 	printf("\n\n");
-	cout << (tmp_all == tmp_a1 & tmp_a2) ? 1 : 0;
+	cout << (tmp_all == (tmp_a1 & tmp_a2)) ? 1 : 0;
 
 	printf("\n\n");
 
