@@ -1,0 +1,9 @@
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\bin\Debug\MysticLabyrinth_alpha_1.exe.config
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\bin\Debug\MysticLabyrinth_alpha_1.exe
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\bin\Debug\MysticLabyrinth_alpha_1.pdb
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\obj\Debug\MysticLabyrinth_alpha_1.csprojResolveAssemblyReference.cache
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\obj\Debug\MysticLabyrinth_alpha_1.Form1.resources
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\obj\Debug\MysticLabyrinth_alpha_1.Properties.Resources.resources
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\obj\Debug\MysticLabyrinth_alpha_1.csproj.GenerateResource.Cache
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\obj\Debug\MysticLabyrinth_alpha_1.exe
+C:\Users\acoross\Documents\GitHub\Acoross_GameDev\MysticLabyrinth_alpha_1\MysticLabyrinth_alpha_1\obj\Debug\MysticLabyrinth_alpha_1.pdb
